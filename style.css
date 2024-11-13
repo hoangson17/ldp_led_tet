@@ -1,0 +1,185 @@
+@import url(https://db.onlinewebfonts.com/c/6a8d458bb5852341196e6bd04864c70c?family=NVN+Motherland+Signature);
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+
+@font-face {
+    font-family:font_strong;
+    src:url('./Motherland_Signature_VH/NVN-Motherland-Signature.ttf') format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+a{
+    text-decoration: none;
+}a:hover{
+    text-decoration: none;
+}
+
+.td{
+    font-family: font_strong;
+    color: #83BB26;
+}
+
+.td_2{
+    color: #00BF89;
+}
+
+.td_3{
+    color: #377464;
+}
+
+/* section_two  */
+
+.section_two{
+    margin-top: 60px;
+}
+
+.section_two .inner-box{
+    background-color: #D4F1E7;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.section_two .inner_title{
+    padding: 20px 0;
+}
+
+.section_two .inner-box img{
+    width: 100%;
+}
+
+.section_two .inner-box .desc{
+    padding: 12px 0;
+    
+}
+.section_two .inner-box p{
+    max-width: 350px;
+    text-align: left;
+    margin: 0;
+    margin-left: 15px;
+}
+
+.section_two .btn.btn-1 {
+    margin-top: 20px;
+    padding: 5px 20px;
+    background-color: #126B5C;
+    color: #FFFFFF;
+    border-radius: 40px;
+    transition: transform 0.2s ease-in-out; 
+}
+
+.section_two .btn.btn-1:hover {
+    animation: scale-pulse-hover 1s infinite; 
+}
+
+/*  end section_two  */
+
+.section_three{
+    margin-top: 60px;
+}
+.section_three .inner-box{
+    padding: 15px;
+    border-top-right-radius:20px ;
+    border-bottom-right-radius:20px ;
+    background: linear-gradient(90deg, #3DD19D 44%, #05674B 100%);
+}
+
+.box-title{
+    border: 2px solid #fff;
+    background-color: #126B5C;
+    padding: 15px 30px;
+    margin: 0;
+    border-radius: 17px;
+    font-size: 14px;
+}
+
+.box-content{
+    border: 2px solid #fff;
+    background-color: #002b3437;
+    color: #FFFFFF;
+    border-radius: 20px;
+}
+.box-content p{
+    padding: 7px;
+}
+
+.btn.btn_2 {
+    background: #126B5C;
+    margin-top: 10px;
+    border: 2px solid #fff;
+    border-radius: 20px;
+    transition: transform 0.2s ease-in-out;
+    color: #FFFFFF;
+}
+
+.btn.btn_2:hover {
+    animation: scale-pulse-hover 1s infinite; 
+}
+
+
+@keyframes scale-pulse-hover {
+    0%, 100% {
+        transform: scale(1); 
+    }
+    50% {
+        transform: scale(1.1); 
+    }
+}
+
+.section_four{
+    margin-top: 60px;
+}
+
+.section_four .lixi img{
+    margin-bottom: 30px;
+}
+.section_four .lixi img:nth-child(2) {
+    display: none;
+}
+
+.section_four .lixi:hover img:nth-child(2) {
+    display: block;
+}
+.section_four .lixi:hover img:nth-child(1) {
+    display: none;
+}
+
+.section_four .btn_5 {
+    margin-top: 20px;
+    background-color: #126B5C;
+    border-radius: 10px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 10px 5px;
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+}
+.section_four .btn_5:hover{
+    animation: scale-pulse-hover 1.5s infinite alternate; 
+}
+
+
+
+.section_four .btn_5:hover {
+    background-color: #0e594d; 
+    text-decoration: none;
+}
+
+
+.section_five{
+    margin-top: 60px;
+}
+
+.section_five .btn_6 {
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+
+
+.section_five .btn_6:hover {
+    transform: scale(1.05); 
+}
+
+
