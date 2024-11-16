@@ -1,22 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style1.css">
-    <!-- reset-css -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <!-- bootstrap -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <title>Document</title>
-</head>
-<body>
-
-  <div class="section_one">
-    <a  href="">
-        <img style="width: 100%;" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/banner_1.png" alt="">
-        <img style="width: 100%;" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/banner_2.png" alt="">
+<div class="section_one">
+    <a href="">
+        <img style="width: 100%;" src="/uploads/images/landingpage/LED-tet-2025/banner_1.png" alt="">
+        <img style="width: 100%;" src="/uploads/images/landingpage/LED-tet-2025/banner_2.png" alt="">
     </a>
 </div>
 
@@ -45,10 +30,10 @@
                 <i class="bi bi-check" style="color: #377464;width: 30px; height: 30px; background:white; border-radius:50%;"></i>
                 <p> Có nguồn gốc địa phương & nội địa - Giảm thiểu lượng khí thải từ vận chuyển</p>
                </div>
-               <a class="btn btn-1" href="https://rangdong.com.vn/chon-xanh-don-tet-an-lanh-cung-nha-thong-minh-rang-dong-n1268.html" target="_blank">Xem ngay <i class="bi bi-arrow-right"></i></a>
+               <a class="btn btn-1" href="#">Xem ngay <i class="bi bi-arrow-right"></i></a>
             </div>
             <div class="col-md-6">
-                <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_2-1.png" alt="">
+                <img src="/uploads/images/landingpage/LED-tet-2025/section_2-1.png" alt="">
             </div>
         </div>
     </div>
@@ -66,7 +51,7 @@
         </div>
         <div class="row pt-4 align-items-end pc">
             <div class="col-xl-5 p-0 pl-0 pr-0">
-                <img class="w-100" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_3-1.png" alt="">
+                <img class="w-100" src="/uploads/images/landingpage/LED-tet-2025/section_3-1.png" alt="">
             </div>
             <div class="col-xl-7 inner-box">
                 <div class="row ">
@@ -94,14 +79,14 @@
                 </div>
                 <div class="row">
                     <div class="col-12 text-center">
-                        <a href="https://rangdong.com.vn/nha-thong-minh-rang-dong-mang-tet-an-lanh-den-moi-nha-n1269.html" class="btn btn_2" target="_blank">Xem ngay <i class="bi bi-arrow-right"></i></a>
+                        <a href="#" class="btn btn_2">Xem ngay <i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
     <div class="mobile p-0">
-        <img width="100%" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_3.png" alt="">
+        <img width="100%" src="/uploads/images/landingpage/LED-tet-2025/section_3.png" alt="">
     </div>
 </div>
 
@@ -110,34 +95,34 @@
 <div class="section_four">
     <div class="container">
         <div class="row">
-            <h2 class="font-weight-bold col-12 text-center"><img class="img-title" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_4.png" alt=""><span class="td_2">CHỌN XANH </span><span class="td_3"> chọn mong ước tết này</span></h2>
+            <h2 class="font-weight-bold col-12 text-center"><img class="img-title" src="/uploads/images/landingpage/LED-tet-2025/section_4.png" alt=""><span class="td_2">CHỌN XANH </span><span class="td_3"> chọn mong ước tết này</span></h2>
         </div>
         <div class="row">
             <div class="col-md-3 col-6 text-center">
                 <div class="lixi">
-                    <img class="w-100" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_4-2.png" alt="">
-                    <img class="w-100" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_4-2-1.gif" alt="">
+                    <img class="w-100" src="/uploads/images/landingpage/LED-tet-2025/section_4-2.png" alt="">
+                    <img class="w-100" src="/uploads/images/landingpage/LED-tet-2025/section_4-2-1.gif" alt="">
                 </div>
                 <a class="btn_5" href="">Đón rước tài lộc</a>
             </div>
             <div class="col-md-3 col-6 text-center">
                 <div class="lixi">
-                    <img class="w-100" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_4-2.png" alt="">
-                    <img class="w-100" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_4-2-2.gif" alt="">
+                    <img class="w-100" src="/uploads/images/landingpage/LED-tet-2025/section_4-2.png" alt="">
+                    <img class="w-100" src="/uploads/images/landingpage/LED-tet-2025/section_4-2-2.gif" alt="">
                 </div>
                 <a class="btn_5" href="">An khang thịnh vượng</a>
             </div>
             <div class="col-md-3 col-6  text-center">
                 <div class="lixi">
-                    <img class="w-100" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_4-2.png" alt="">
-                    <img class="w-100" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_4-2-3.gif" alt="">
+                    <img class="w-100" src="/uploads/images/landingpage/LED-tet-2025/section_4-2.png" alt="">
+                    <img class="w-100" src="/uploads/images/landingpage/LED-tet-2025/section_4-2-3.gif" alt="">
                 </div>
                 <a class="btn_5" href="">Vạn sự như ý</a>
             </div>
             <div class="col-md-3 col-6 text-center">
                 <div class="lixi">
-                    <img class="w-100" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_4-2.png" alt="">
-                    <img class="w-100" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_4-2-4.gif" alt="">
+                    <img class="w-100" src="/uploads/images/landingpage/LED-tet-2025/section_4-2.png" alt="">
+                    <img class="w-100" src="/uploads/images/landingpage/LED-tet-2025/section_4-2-4.gif" alt="">
                 </div>
                 <a class="btn_5" href="">Năm mới tốt lành</a>
             </div>
@@ -151,7 +136,7 @@
     <div class="container">
         <div class="row">
             <a class="text-center">
-                <img class="btn_6" width="90%" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_5.png" alt="">
+                <img class="btn_6" width="90%" src="/uploads/images/landingpage/LED-tet-2025/section_5.png" alt="">
             </a>
         </div>
     </div>
@@ -170,7 +155,7 @@
         </div>
         <div class="row justify-content-around mt-4">
             <div class="inner-box col-md-2">
-                <img style="width: 100%;" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_6-1.png" alt="">
+                <img style="width: 100%;" src="/uploads/images/landingpage/LED-tet-2025/section_6-1.png" alt="">
                 <div class="mt-md-3">
                     <h5 class="inner-title font-weight-bold text-center">
                         Sức khỏe
@@ -181,7 +166,7 @@
                 </div>
             </div>
             <div class="inner-box col-md-2">
-                <img style="width: 100%;" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_6-2.png" alt="">
+                <img style="width: 100%;" src="/uploads/images/landingpage/LED-tet-2025/section_6-2.png" alt="">
                 <div class="mt-md-3">
                     <h5 class="inner-title font-weight-bold text-center">
                         An ninh, an toàn
@@ -192,7 +177,7 @@
                 </div>
             </div>
             <div class="inner-box col-md-2">
-                <img style="width: 100%;" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_6-3.png" alt="">
+                <img style="width: 100%;" src="/uploads/images/landingpage/LED-tet-2025/section_6-3.png" alt="">
                 <div class="mt-md-3">
                     <h5 class="font-weight-bold inner-title text-center">
                         Thoải mái
@@ -203,7 +188,7 @@
                 </div>
             </div>
             <div class="inner-box col-md-2">
-                <img style="width: 100%;" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_6-4.png" alt="">
+                <img style="width: 100%;" src="/uploads/images/landingpage/LED-tet-2025/section_6-4.png" alt="">
                 <div class="mt-md-3">
                     <h5 class="font-weight-bold inner-title text-center">
                         Tiện lợi    
@@ -214,7 +199,7 @@
                 </div>
             </div>
             <div class="inner-box col-md-2">
-                <img style="width: 100%;" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_6-5.png" alt="">
+                <img style="width: 100%;" src="/uploads/images/landingpage/LED-tet-2025/section_6-5.png" alt="">
                 <div class="mt-md-3">
                     <h5 class="font-weight-bold inner-title text-center">
                         Xanh
@@ -260,7 +245,7 @@
             <div class="tab-1-content-inner row">
               <div class="col-md-6" style="color: #377464">
                 <a href="" class="d-flex align-items-center inner-box">
-                  <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-1-2.png" alt="" />
+                  <img src="/uploads/images/landingpage/LED-tet-2025/section_7-1-2.png" alt="" />
                   <div>
                     <span class="font-weight-bold">
                       01x Bộ điều khiển trung tâm mini </span
@@ -270,7 +255,7 @@
   
   
                 <a href="" class="d-flex align-items-center inner-box">
-                  <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-1-3.png" alt="" />
+                  <img src="/uploads/images/landingpage/LED-tet-2025/section_7-1-3.png" alt="" />
                   <div>
                     <span class="font-weight-bold">
                       01x Công tắc cửa cuốn </span
@@ -279,7 +264,7 @@
                   </div> </a>
               
                 <a href="" class="d-flex align-items-center inner-box">
-                  <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-1-4.png" alt="" />
+                  <img src="/uploads/images/landingpage/LED-tet-2025/section_7-1-4.png" alt="" />
                   <div>
                     <span class="font-weight-bold">
                       04 x Công tắc cảm ứng chữ nhật </span
@@ -289,7 +274,7 @@
   
   
                 <a href="" class="d-flex align-items-center inner-box">
-                  <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-1-5.png" alt="" />
+                  <img src="/uploads/images/landingpage/LED-tet-2025/section_7-1-5.png" alt="" />
                   <div>
                     <span class="font-weight-bold">
                       01x Công tắc 2 chiều không dây</span
@@ -299,7 +284,7 @@
                   
   
                 <a href="" class="d-flex align-items-center inner-box">
-                  <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-1-6.png" alt="" />
+                  <img src="/uploads/images/landingpage/LED-tet-2025/section_7-1-6.png" alt="" />
                   <div>
                     <span class="font-weight-bold">
                       02 x Điều khiển từ xa đa năng thông minh</span
@@ -308,7 +293,7 @@
                   </div> </a>
   
                 <a href="" class="d-flex align-items-center inner-box">
-                  <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-1-7.png" alt="" />
+                  <img src="/uploads/images/landingpage/LED-tet-2025/section_7-1-7.png" alt="" />
                   <div>
                     <span class="font-weight-bold">
                       01 x Cảm biến cửa</span
@@ -316,7 +301,7 @@
                     <span>Model: CB16.DO.BLE</span>
                   </div> </a> 
                   <br>
-                  <div style="width: 100%;" class="text-left btn_mbl">
+                  <div style="width: 100%;" class="text-center">
                     <a style="padding: 10px 50px; font-size: 20px; border-radius: 20px;   background: #377464;" href="" class="font-weight-bold text-white ">
                         Nhận tư vấn
                       </a>
@@ -324,7 +309,7 @@
               </div>
               
               <div class="col-md-6 box-img">
-                <img style="width: 100%" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-1.jpg" alt="" />
+                <img style="width: 100%" src="/uploads/images/landingpage/LED-tet-2025/section_7-1.png" alt="" />
               </div>
             </div>
           </div>
@@ -334,7 +319,7 @@
             <div class="tab-2-content-inner row">
                 <div class="col-md-6" style="color: #377464">
                   <a href="" class="d-flex align-items-center inner-box">
-                    <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-1-2.png" alt="" />
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_7-1-2.png" alt="" />
                     <div>
                       <span class="font-weight-bold">
                         01x Bộ điều khiển trung tâm</span
@@ -344,7 +329,7 @@
     
     
                   <a href="" class="d-flex align-items-center inner-box">
-                    <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-2-2.png" alt="" />
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_7-2-2.png" alt="" />
                     <div>
                       <span class="font-weight-bold">
                         01x Camera wifi trong nhà</span
@@ -353,7 +338,7 @@
                     </div> </a>
                 
                   <a href="" class="d-flex align-items-center inner-box">
-                    <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-2-3.png" alt="" />
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_7-2-3.png" alt="" />
                     <div>
                       <span class="font-weight-bold">
                         01x Camera wifi ngoài trời</span
@@ -363,7 +348,7 @@
     
     
                   <a href="" class="d-flex align-items-center inner-box">
-                    <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-2-4.png" alt="" />
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_7-2-4.png" alt="" />
                     <div>
                       <span class="font-weight-bold">
                         01x Cảm biến nhiệt</span
@@ -373,7 +358,7 @@
                     
     
                   <a href="" class="d-flex align-items-center inner-box">
-                    <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-2-5.png" alt="" />
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_7-2-5.png" alt="" />
                     <div>
                       <span class="font-weight-bold">
                         01 x Cảm biến khói</span
@@ -382,7 +367,7 @@
                     </div> </a>
     
                   <a href="" class="d-flex align-items-center inner-box">
-                    <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-2-6.png" alt="" />
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_7-2-6.png" alt="" />
                     <div>
                       <span class="font-weight-bold">
                         01x Cảm biến hiện diện</span
@@ -390,7 +375,7 @@
                       <span>Model: CB15.RAD.BLE (AC)</span>
                     </div> </a> 
                     <br>
-                    <div style="width: 100%;" class="text-left btn_mbl">
+                    <div style="width: 100%;" class="text-center">
                       <a style="padding: 10px 50px; font-size: 20px; border-radius: 20px;   background: #377464;" href="" class="font-weight-bold text-white ">
                           Nhận tư vấn
                         </a>
@@ -398,7 +383,7 @@
                 </div>
                 
                 <div class="col-md-6 box-img">
-                  <img style="width: 100%" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-2.jpg" alt="" />
+                  <img style="width: 100%" src="/uploads/images/landingpage/LED-tet-2025/section_7-1.png" alt="" />
                 </div>
               </div>
           </div>
@@ -408,7 +393,7 @@
             <div class="tab-1-content-inner row">
                 <div class="col-md-6" style="color: #377464">
                   <a href="" class="d-flex align-items-center inner-box">
-                    <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-3-1.png" alt="" />
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_7-3-1.png" alt="" />
                     <div>
                       <span class="font-weight-bold">
                         01x Bộ điều khiển trung tâm</span
@@ -418,7 +403,7 @@
     
     
                   <a href="" class="d-flex align-items-center inner-box">
-                    <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-3-2.png" alt="" />
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_7-3-2.png" alt="" />
                     <div>
                       <span class="font-weight-bold">
                         01x Cảm biến hiện diện</span
@@ -427,7 +412,7 @@
                     </div> </a>
                 
                   <a href="" class="d-flex align-items-center inner-box">
-                    <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-3-3.png" alt="" />
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_7-3-3.png" alt="" />
                     <div>
                       <span class="font-weight-bold">
                         10 x Công tắc cảm ứng chữ nhật</span
@@ -437,7 +422,7 @@
     
     
                   <a href="" class="d-flex align-items-center inner-box">
-                    <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-3-4.png" alt="" />
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_7-3-4.png" alt="" />
                     <div>
                       <span class="font-weight-bold">
                         01x Đèn LED Downlight đổi màu</span
@@ -447,7 +432,7 @@
                     
     
                   <a href="" class="d-flex align-items-center inner-box">
-                    <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-3-5.png" alt="" />
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_7-3-5.png" alt="" />
                     <div>
                       <span class="font-weight-bold">
                         01 x Công tắc 2 chiều không dây</span
@@ -456,7 +441,7 @@
                     </div> </a>
     
                   <a href="" class="d-flex align-items-center inner-box">
-                    <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-3-6.png" alt="" />
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_7-3-6.png" alt="" />
                     <div>
                       <span class="font-weight-bold">
                         01 x Aptomat thông minh Wifi</span
@@ -464,7 +449,7 @@
                       <span>Model: RD.MCB.WF 2P C63</span>
                     </div> </a> 
                     <br>
-                    <div style="width: 100%;" class="text-left btn_mbl">
+                    <div style="width: 100%;" class="text-center">
                       <a style="padding: 10px 50px; font-size: 20px; border-radius: 20px;   background: #377464;" href="" class="font-weight-bold text-white ">
                           Nhận tư vấn
                         </a>
@@ -472,7 +457,7 @@
                 </div>
                 
                 <div class="col-md-6 box-img">
-                  <img style="width: 100%" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-3.jpg" alt="" />
+                  <img style="width: 100%" src="/uploads/images/landingpage/LED-tet-2025/section_7-1.png" alt="" />
                 </div>
               </div>
           </div>
@@ -481,7 +466,7 @@
             <div class="tab-1-content-inner row">
                 <div class="col-md-6" style="color: #377464">
                   <a href="" class="d-flex align-items-center inner-box">
-                    <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-4-1.png" alt="" />
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_7-4-1.png" alt="" />
                     <div>
                       <span class="font-weight-bold">
                         01x Bộ điều khiển trung tâm</span
@@ -491,7 +476,7 @@
     
     
                   <a href="" class="d-flex align-items-center inner-box">
-                    <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-4-2.png" alt="" />
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_7-4-2.png" alt="" />
                     <div>
                       <span class="font-weight-bold">
                         01x Bộ điều khiển trung tâm LCD</span
@@ -500,7 +485,7 @@
                     </div> </a>
                 
                   <a href="" class="d-flex align-items-center inner-box">
-                    <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-4-3.png" alt="" />
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_7-4-3.png" alt="" />
                     <div>
                       <span class="font-weight-bold">
                         20 x Công tắc cảm ứng chữ nhật</span
@@ -510,7 +495,7 @@
     
     
                   <a href="" class="d-flex align-items-center inner-box">
-                    <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-4-4.png" alt="" />
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_7-4-4.png" alt="" />
                     <div>
                       <span class="font-weight-bold">
                         01x Camera wifi ngoài trời</span
@@ -520,7 +505,7 @@
                     
     
                   <a href="" class="d-flex align-items-center inner-box">
-                    <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-4-5.png" alt="" />
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_7-4-5.png" alt="" />
                     <div>
                       <span class="font-weight-bold">
                         01 x Aptomat thông minh Wifi</span
@@ -529,7 +514,7 @@
                     </div> </a>
     
                   <a href="" class="d-flex align-items-center inner-box">
-                    <img src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-4-6.png" alt="" />
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_7-4-6.png" alt="" />
                     <div>
                       <span class="font-weight-bold">
                         01x Cảm biến hiện diện</span
@@ -537,7 +522,7 @@
                       <span>Model: CB15.RAD.BLE (AC)</span>
                     </div> </a> 
                     <br>
-                    <div style="width: 100%;" class="text-left btn_mbl">
+                    <div style="width: 100%;" class="text-center">
                       <a style="padding: 10px 50px; font-size: 20px; border-radius: 20px;   background: #377464;" href="" class="font-weight-bold text-white ">
                           Nhận tư vấn
                         </a>
@@ -545,7 +530,7 @@
                 </div>
                 
                 <div class="col-md-6 box-img">
-                  <img style="width: 100%" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_7-4.jpg" alt="" />
+                  <img style="width: 100%" src="/uploads/images/landingpage/LED-tet-2025/section_7-1.png" alt="" />
                 </div>
               </div>
           </div>
@@ -554,17 +539,17 @@
 </div>
 
 <div class="section_eight">
-    <img width="100%" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_8.png" alt="">
-    <img width="100%" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_8-2.png" alt="">
+    <img width="100%" src="/uploads/images/landingpage/LED-tet-2025/section_8.png" alt="">
+    <img width="100%" src="/uploads/images/landingpage/LED-tet-2025/section_8-2.png" alt="">
 </div>
 
 <div class="section_nine">
-    <img width="100%" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_9.jpg" alt="">
-    <img width="100%" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/section_9-2.png" alt="">
+    <img width="100%" src="/uploads/images/landingpage/LED-tet-2025/section_9.png" alt="">
+    <img width="100%" src="/uploads/images/landingpage/LED-tet-2025/section_9-2.png" alt="">
 </div>
 
 <div class="section_ten" style="background: linear-gradient(90deg, #0F0D35 0%,#00BF89 100%); ">
-    <div class="col-md-7 p-0 oder_2"><img width="100%" src="https://rangdong.com.vn/uploads/images/landingpage/LED-tet-2025/footer_1.png" alt=""></div>
+    <div class="col-md-7 p-0 oder_2"><img width="100%" src="/uploads/images/landingpage/LED-tet-2025/footer_1.png" alt=""></div>
     <div class="col-md-5 p-0 d-flex align-items-center justify-content-center oder_1">
         <form class="form-container" action="">
             <h2 class="font-weight-bold mb-4">NHẬN TƯ VẤN TỪ RALLISMART</h2>
@@ -581,14 +566,41 @@
                 <input type="text" class="form-control" placeholder="Địa chỉ">
             </div>
             
-            <button style="color: white;" type="submit" class="btn font-weight-bold">ĐĂNG KÝ NGAY</button>
+            <button type="submit" class="btn font-weight-bold">ĐĂNG KÝ NGAY</button>
         </form>
     </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
-<script src="./scripp.js"></script>
-</body>
-</html>
+
+<script>
+const tabItems = document.querySelectorAll('.tab-item');
+const tabContentItems = document.querySelectorAll('.tab-content-item');
+
+function selectItem(e) {
+removeBorder();
+removeShow();
+this.classList.add('tab-border');
+this.querySelector('.button_seven').classList.add('tab-brg');
+const tabContentItem = document.querySelector(`#${this.id}-content`);
+tabContentItem.classList.add('show');
+}
+
+function removeBorder() {
+tabItems.forEach(item => {
+    item.classList.remove('tab-border');
+    item.querySelector('.button_seven').classList.remove('tab-brg');
+});
+}
+
+function removeShow() {
+tabContentItems.forEach(item => {
+    item.classList.remove('show');
+});
+}
 
 
+tabItems.forEach(item => {
+item.addEventListener('click', selectItem);
+});
+</script>

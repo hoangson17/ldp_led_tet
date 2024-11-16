@@ -1,0 +1,395 @@
+<div class="section_one">
+        <a href="">
+            <img style="width: 100%;" src="/uploads/images/landingpage/LED-tet-2025/banner_1.png" alt="">
+            <img style="width: 100%;" src="/uploads/images/landingpage/LED-tet-2025/banner_2.png" alt="">
+        </a>
+    </div>
+
+    <!--  -->
+
+    <div class="section_two">
+        <div class="container">
+            <div class="row">
+                <div class="text-center">
+                    <h2 class="title_main"><span class="td font">Tiêu dùng </span><span class="td_2 font-weight-bold">Xanh</span></h2>
+                    <p class="desc_main">Tiêu dùng xanh, hay còn gọi là tiêu dùng bền vững giúp giảm thiểu tác động tiêu cực cho môi trường thông qua lựa chọn những sản phẩm sử dụng tài nguyên hiệu quả, duy trì phát triển bền vững</p>
+                </div>
+            </div>
+            <div class="row inner-box">
+                <div class="col-md-6">
+                   <h3 class="inner_title" style="color: #377464;font-weight: bold;">Ưu tiên lựa chọn những sản phẩm</h3>
+                   <div class="desc d-flex align-items-center text-center">
+                    <i class="bi bi-check" style="color: #377464;width: 30px; height: 30px; background:white; border-radius:50%;"></i>
+                    <p> Được sản xuất theo quy trình thân thiện với môi trường</p>
+                   </div>
+                   <div class="desc d-flex text-center">
+                    <i class="bi bi-check" style="color: #377464;width: 30px; height: 30px; background:white; border-radius:50%;"></i>
+                    <p> Có độ bền cao, vòng đời dài</p>
+                   </div>
+                   <div class="desc d-flex text-center">
+                    <i class="bi bi-check" style="color: #377464;width: 30px; height: 30px; background:white; border-radius:50%;"></i>
+                    <p> Có nguồn gốc địa phương & nội địa - Giảm thiểu lượng khí thải từ vận chuyển</p>
+                   </div>
+                   <a class="btn btn-1" href="#">Xem ngay <i class="bi bi-arrow-right"></i></a>
+                </div>
+                <div class="col-md-6">
+                    <img src="/uploads/images/landingpage/LED-tet-2025/section_2-1.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--  -->
+
+    <div class="section_three">
+        <div class="container">
+            <div class="row">
+                <div class="inner_title text-center col-md-12 ">
+                    <h2  class="font-weight-bold"><span class="td_2">RALLISMART </span><span class="td_3">giải pháp nhà thông minh xanh bền vững</span></h2>
+                    <p class="inner_desc" >Môi trường sản xuất xanh an toàn và hiện đại, tuân thủ tiêu chuẩn bảo vệ môi trường, tái sử dụng tài nguyên và giảm thiểu chất thải</p>
+                </div>
+            </div>
+            <div class="row pt-4 align-items-end pc">
+                <div class="col-xl-5 p-0 pl-0 pr-0">
+                    <img class="w-100" src="/uploads/images/landingpage/LED-tet-2025/section_3-1.png" alt="">
+                </div>
+                <div class="col-xl-7 inner-box">
+                    <div class="row ">
+                        <div class="col-md-4">
+                            <div class="box-content h-100">
+                                <div class="box-title text-uppercase text-center">Sản xuất xanh</div>
+                                <p style="text-align: justify;">Tiết kiệm & tối ưu tài nguyên trong sản xuất (Năng lượng, nguyên vật liệu, nguồn lực lao động, Zero Defect)</p>
+                            </div>
+                            
+                        </div>
+                        <div class="col-md-4">
+                            <div class="box-content h-100">
+                                <div class="box-title text-uppercase text-center">sản phẩm xanh</div>
+                                <p style="text-align: justify;">Giá trị sử dụng cao, tiết kiệm năng lượng; vật liệu thân thiện môi trường, giá trị vòng đời sản phẩm cao</p>
+                            </div>
+                            
+                        </div>
+                        <div class="col-md-4">
+                            <div class="box-content h-100">
+                                <div class="box-title text-uppercase text-center">tiêu dùng xanh</div>
+                                <p style="text-align: justify;">Hỗ trợ người tiêu dùng tiết kiệm năng lượng, tài nguyên và giải phóng nguồn lực cho con người. Sản phẩm thân thiện với môi trường mang đến lối sống xanh và bền vững</p>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12 text-center">
+                            <a href="#" class="btn btn_2">Xem ngay <i class="bi bi-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mobile p-0">
+            <img width="100%" src="/uploads/images/landingpage/LED-tet-2025/section_3.png" alt="">
+        </div>
+    </div>
+
+    <!--  -->
+
+    <div class="section_four">
+        <div class="container">
+            <div class="row">
+                <h2 class="font-weight-bold col-12 text-center"><img class="img-title" src="/uploads/images/landingpage/LED-tet-2025/section_4.png" alt=""><span class="td_2">CHỌN XANH </span><span class="td_3"> chọn mong ước tết này</span></h2>
+            </div>
+            <div class="row">
+                <div class="col-md-3 col-6 text-center">
+                    <div class="lixi">
+                        <img class="w-100" src="/uploads/images/landingpage/LED-tet-2025/section_4-2.png" alt="">
+                        <img class="w-100" src="/uploads/images/landingpage/LED-tet-2025/section_4-2-1.gif" alt="">
+                    </div>
+                    <a class="btn_5" href="">Đón rước tài lộc</a>
+                </div>
+                <div class="col-md-3 col-6 text-center">
+                    <div class="lixi">
+                        <img class="w-100" src="/uploads/images/landingpage/LED-tet-2025/section_4-2.png" alt="">
+                        <img class="w-100" src="/uploads/images/landingpage/LED-tet-2025/section_4-2-2.gif" alt="">
+                    </div>
+                    <a class="btn_5" href="">An khang thịnh vượng</a>
+                </div>
+                <div class="col-md-3 col-6  text-center">
+                    <div class="lixi">
+                        <img class="w-100" src="/uploads/images/landingpage/LED-tet-2025/section_4-2.png" alt="">
+                        <img class="w-100" src="/uploads/images/landingpage/LED-tet-2025/section_4-2-3.gif" alt="">
+                    </div>
+                    <a class="btn_5" href="">Vạn sự như ý</a>
+                </div>
+                <div class="col-md-3 col-6 text-center">
+                    <div class="lixi">
+                        <img class="w-100" src="/uploads/images/landingpage/LED-tet-2025/section_4-2.png" alt="">
+                        <img class="w-100" src="/uploads/images/landingpage/LED-tet-2025/section_4-2-4.gif" alt="">
+                    </div>
+                    <a class="btn_5" href="">Năm mới tốt lành</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--  -->
+
+    <div class="section_five">
+        <div class="container">
+            <div class="row">
+                <a class="text-center">
+                    <img class="btn_6" width="90%" src="/uploads/images/landingpage/LED-tet-2025/section_5.png" alt="">
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!--  -->
+
+    <div class="section_six">
+        <div class="container">
+            <div class="row">
+                <div class="inner-title w-100">
+                    <h2 class="font-weight-bold text-center">
+                        <span class="td_2">ƯU ĐIỂM</span><span class="td_3"> của nhà thông minh</span>
+                    </h2>
+                </div>
+            </div>
+            <div class="row justify-content-around mt-4">
+                <div class="inner-box col-md-2">
+                    <img style="width: 100%;" src="/uploads/images/landingpage/LED-tet-2025/section_6-1.png" alt="">
+                    <div class="mt-md-3">
+                        <h5 class="inner-title font-weight-bold text-center">
+                            Sức khỏe
+                        </h5>
+                        <div style="text-align: justify;" class="inner-desc text-justify mt-2">
+                            Ánh sáng tự động thay đổi màu sắc và cường độ, phù hợp với nhịp sinh học, tốt cho sức khỏe.
+                        </div>
+                    </div>
+                </div>
+                <div class="inner-box col-md-2">
+                    <img style="width: 100%;" src="/uploads/images/landingpage/LED-tet-2025/section_6-2.png" alt="">
+                    <div class="mt-md-3">
+                        <h5 class="inner-title font-weight-bold text-center">
+                            An ninh, an toàn
+                        </h5>
+                        <div style="text-align: justify;" class="inner-desc text-justify mt-2">
+                            Ánh sáng tự động bật khi mất điện hoặc tạo hiện trường giả khi không có người ở nhà.
+                        </div>
+                    </div>
+                </div>
+                <div class="inner-box col-md-2">
+                    <img style="width: 100%;" src="/uploads/images/landingpage/LED-tet-2025/section_6-3.png" alt="">
+                    <div class="mt-md-3">
+                        <h5 class="font-weight-bold inner-title text-center">
+                            Thoải mái
+                        </h5>
+                        <div style="text-align: justify;" class="inner-desc text-justify mt-2">
+                            Ánh sáng tăng dần cường độ, đánh thức con người mỗi sáng, chuyển sang vàng khi đến giờ ngủ.
+                        </div>
+                    </div>
+                </div>
+                <div class="inner-box col-md-2">
+                    <img style="width: 100%;" src="/uploads/images/landingpage/LED-tet-2025/section_6-4.png" alt="">
+                    <div class="mt-md-3">
+                        <h5 class="font-weight-bold inner-title text-center">
+                            Tiện lợi    
+                        </h5>
+                        <div style="text-align: justify;" class="inner-desc text-justify mt-2">
+                            Ánh sáng tự động bật/tắt theo kịch bản, tự động điều chỉnh cường độ theo ánh sáng môi trường.
+                        </div>
+                    </div>
+                </div>
+                <div class="inner-box col-md-2">
+                    <img style="width: 100%;" src="/uploads/images/landingpage/LED-tet-2025/section_6-5.png" alt="">
+                    <div class="mt-md-3">
+                        <h5 class="font-weight-bold inner-title text-center">
+                            Xanh
+                        </h5>
+                        <div style="text-align: justify;" class="inner-desc text-justify mt-2">
+                            Sản phẩm có hiệu suất ánh sáng cao, tiết kiệm điện; tuổi thọ cao, giảm phát thải ra môi trường.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section_seven">
+        <div class="container">
+                <div class="inner_title text-center m-auto font-weight-bold" style="font-size: 40px;">   
+                    <span class="td_3">Trải nghiệm nhà thông minh</span><br>
+                    <span class="td_2" style="text-transform: uppercase;">chỉ từ 5 triệu đồng </span>
+                </div>
+        </div>
+        <div class="container mt-3">
+            <div class="tabs">
+              <div class="d-flex justify-content-around">
+                <div id="tab-1" class="tab-item tab-border">
+                  <p class="hide-sm button_seven tab-brg">Gói tiết kiệm</p>
+                </div>
+                <div id="tab-2" class="tab-item">
+                  <p class="hide-sm button_seven ">Gói an ninh an toàn</p>
+                </div>
+                <div id="tab-3" class="tab-item">
+                  <p class="hide-sm button_seven">Gói tiện nghi</p>
+                </div>
+                <div id="tab-4" class="tab-item">
+                  <p class="hide-sm button_seven">Gói toàn diện</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="tab-content p-4">
+              <!-- Tab Content 1 -->
+              <div id="tab-1-content" class="tab-content-item show">
+                <div class="tab-1-content-inner row">
+                  <div class="col-md-6" style="color: #377464">
+                    <a href="" class="d-flex align-items-center inner-box">
+                      <img src="/uploads/images/landingpage/LED-tet-2025/section_7-1-2.png" alt="" />
+                      <div>
+                        <span class="font-weight-bold">
+                          01x Bộ điều khiển trung tâm mini </span
+                        ><br />
+                        <span>Model: RD-HC02</span>
+                      </div> </a>
+      
+      
+                    <a href="" class="d-flex align-items-center inner-box">
+                      <img src="/uploads/images/landingpage/LED-tet-2025/section_7-1-3.png" alt="" />
+                      <div>
+                        <span class="font-weight-bold">
+                          01x Công tắc cửa cuốn </span
+                        ><br />
+                        <span>Model: CTCU.BLE CN.DOT</span>
+                      </div> </a>
+                  
+                    <a href="" class="d-flex align-items-center inner-box">
+                      <img src="/uploads/images/landingpage/LED-tet-2025/section_7-1-4.png" alt="" />
+                      <div>
+                        <span class="font-weight-bold">
+                          04 x Công tắc cảm ứng chữ nhật </span
+                        ><br />
+                        <span>Model: CTCU.BLE CN.03T</span>
+                      </div> </a> 
+      
+      
+                    <a href="" class="d-flex align-items-center inner-box">
+                      <img src="/uploads/images/landingpage/LED-tet-2025/section_7-1-5.png" alt="" />
+                      <div>
+                        <span class="font-weight-bold">
+                          01x Công tắc 2 chiều không dây</span
+                        ><br />
+                        <span>Model: CT2C V1.03</span>
+                      </div> </a>
+                      
+      
+                    <a href="" class="d-flex align-items-center inner-box">
+                      <img src="/uploads/images/landingpage/LED-tet-2025/section_7-1-6.png" alt="" />
+                      <div>
+                        <span class="font-weight-bold">
+                          02 x Điều khiển từ xa đa năng thông minh</span
+                        ><br />
+                        <span>Model: ĐK01.IR.RF.WF</span>
+                      </div> </a>
+      
+                    <a href="" class="d-flex align-items-center inner-box">
+                      <img src="/uploads/images/landingpage/LED-tet-2025/section_7-1-7.png" alt="" />
+                      <div>
+                        <span class="font-weight-bold">
+                          01 x Cảm biến cửa</span
+                        ><br />
+                        <span>Model: CB16.DO.BLE</span>
+                      </div> </a> 
+                      <br>
+                      <div style="width: 100%;" class="text-center">
+                        <a style="padding: 10px 50px; font-size: 20px; border-radius: 20px;   background: #377464;" href="" class="font-weight-bold text-white ">
+                            Nhận tư vấn
+                          </a>
+                      </div>
+                  </div>
+                  
+                  <div class="col-md-6 box-img">
+                    <img style="width: 100%" src="/uploads/images/landingpage/LED-tet-2025/section_7-1.png" alt="" />
+                  </div>
+                </div>
+              </div>
+      
+              <!-- Tab Content 2 -->
+              <div id="tab-2-content" class="tab-content-item">
+                
+              </div>
+      
+              <!-- Tab Content 3 -->
+              <div id="tab-3-content" class="tab-content-item">
+      
+              </div>
+            </div>
+          </div>
+    </div>
+
+    <div class="section_eight">
+        <img width="100%" src="/uploads/images/landingpage/LED-tet-2025/section_8.png" alt="">
+        <img width="100%" src="/uploads/images/landingpage/LED-tet-2025/section_8-2.png" alt="">
+    </div>
+
+    <div class="section_nine">
+        <img width="100%" src="/uploads/images/landingpage/LED-tet-2025/section_9.png" alt="">
+        <img width="100%" src="/uploads/images/landingpage/LED-tet-2025/section_9-2.png" alt="">
+    </div>
+
+    <div class="section_ten" style="background: linear-gradient(90deg, #0F0D35 0%,#00BF89 100%); ">
+        <div class="col-md-7 p-0 oder_2"><img width="100%" src="/uploads/images/landingpage/LED-tet-2025/footer_1.png" alt=""></div>
+        <div class="col-md-5 p-0 d-flex align-items-center justify-content-center oder_1">
+            <form class="form-container" action="">
+                <h2 class="font-weight-bold mb-4">NHẬN TƯ VẤN TỪ RALLISMART</h2>
+                
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Họ và tên">
+                </div>
+                
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Số điện thoại">
+                </div>
+                
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Địa chỉ">
+                </div>
+                
+                <button type="submit" class="btn font-weight-bold">ĐĂNG KÝ NGAY</button>
+            </form>
+        </div>
+    </div>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+
+<script>
+ const tabItems = document.querySelectorAll('.tab-item');
+const tabContentItems = document.querySelectorAll('.tab-content-item');
+
+function selectItem(e) {
+    removeBorder();
+    removeShow();
+    this.classList.add('tab-border');
+    this.querySelector('.button_seven').classList.add('tab-brg');
+    const tabContentItem = document.querySelector(`#${this.id}-content`);
+    tabContentItem.classList.add('show');
+}
+
+function removeBorder() {
+    tabItems.forEach(item => {
+        item.classList.remove('tab-border');
+        item.querySelector('.button_seven').classList.remove('tab-brg');
+    });
+}
+
+function removeShow() {
+    tabContentItems.forEach(item => {
+        item.classList.remove('show');
+    });
+}
+
+
+tabItems.forEach(item => {
+    item.addEventListener('click', selectItem);
+});
+</script>
